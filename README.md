@@ -7,9 +7,12 @@
 5. [Améliorer votre IDE](./04.vscode.md)
 6. [Angular templating](./05.exercices-templates.md)
 7. [Angular components interactions](./06.exercices-comp-interactions.md)
-8. [Angular todolist](./08.exercices-todolist.md)
-9. [Installation API Server](./09.api.install.md)
-10. [Angular http](./10.exercices.md)
+8. [Angular service](./06.exercices-service.md)
+9. [Angular todolist](./08.exercices-todolist.md)
+10. [Angular material+flex](./08.exercices-material-flex.md)
+11. [Angular routing](./08.exercices-routing.md)
+12. [Installation API Server](./09.api.install.md)
+13. [Angular http](./10.exercices.md)
 
 ## Ressources
 
