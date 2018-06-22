@@ -57,6 +57,7 @@ About Angular architecture : https://angular.io/guide/architecture
 
 ## module
 
+* https://medium.com/@cyrilletuzi/architecture-in-angular-projects-242606567e40 (what are modules for ?)
 * https://angular.io/guide/dependency-injection-pattern#the-dependency-injection-pattern
 * https://angular-2-training-book.rangle.io/handout/modules/shared-modules-di.html (shared services)
 * https://angular.io/guide/singleton-services (shared services)

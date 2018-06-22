@@ -6,10 +6,13 @@
 4. [Comprendre la structure du projet généré](./03.project-structure.md)
 5. [Améliorer votre IDE](./04.vscode.md)
 6. [Angular templating](./05.exercices-templates.md)
-7. [Angular components interactions](./06.exercices-comp-interactions.md)
-8. [Angular todolist](./07.exercices-todolist.md)
-9. [Installation API Server](./08.api.install.md)
-10. [Angular http](./09.exercices.md)
+7. [Angular services](./06.exercices-services.md)
+8. [Angular Material + Flex Layout](./07.exercices-material-flex.md)
+8. [Angular routing](./08.exercices-routing.md)
+10. [Angular components interactions](./09.exercices-comp-interactions.md)
+11. [Angular todolist](./10.exercices-todolist.md)
+12. [Installation API Server](./11.api.install.md)
+13. [Angular http](./12.exercices.md)
 
 ## Ressources
 
