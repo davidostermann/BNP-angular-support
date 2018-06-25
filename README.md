@@ -12,7 +12,7 @@
 10. [Angular components interactions](./09.exercices-comp-interactions.md)
 11. [Angular todolist](./10.exercices-todolist.md)
 12. [Installation API Server](./11.api.install.md)
-13. [Angular http](./12.exercices.md)
+13. [Angular http](./12.exercices-http.md)
 
 ## Ressources
 
