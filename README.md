@@ -6,7 +6,7 @@
 4. [Comprendre la structure du projet généré](./03.project-structure.md)
 5. [Améliorer votre IDE](./04.vscode.md)
 6. [Angular templating](./05.exercices-templates.md)
-7. [Angular services](./06.exercices-services.md)
+7. [Angular services](./06.exercices-service.md)
 8. [Angular Material + Flex Layout](./07.exercices-material-flex.md)
 8. [Angular routing](./08.exercices-routing.md)
 10. [Angular components interactions](./09.exercices-comp-interactions.md)
