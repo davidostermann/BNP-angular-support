@@ -8,11 +8,16 @@
 6. [Angular templating](./05.exercices-templates.md)
 7. [Angular services](./06.exercices-service.md)
 8. [Angular Material + Flex Layout](./07.exercices-material-flex.md)
-8. [Angular routing](./08.exercices-routing.md)
-10. [Angular components interactions](./09.exercices-comp-interactions.md)
-11. [Angular todolist](./10.exercices-todolist.md)
-12. [Installation API Server](./11.api.install.md)
-13. [Angular http](./12.exercices-http.md)
+9. [Angular routing](./08.exercices-routing.md)
+10. [API Rest bookmarks documentation](./09.api.bookmarks.md)
+11. [Angular http](./10.exercice.http.bookmark.md)
+
+## Exercices supplémentaires
+
+* supp1. [Angular components interactions](./supp.exercices-comp-interactions.md)
+* supp2. [Angular todolist](./supp.exercices-todolist.md)
+* supp3. [Installation API Server](./supp.api.install.md)
+* supp3. [Angular http](./12.exercices-http.md)
 
 ## Ressources
 
